@@ -72,12 +72,14 @@ margin: 10% auto;
     right: 28px;
     top: 32px;
     transform: rotate(-90deg);
+    transition: .8s;
 }
 .valentain_card .heart2{
     position: absolute;
     left: 29px;
     top: -26px;
     transform: rotate(90deg);
+    transition: .8s;
 }
 .valentain_card h1{
     text-align: center;
