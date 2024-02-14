@@ -131,3 +131,26 @@ h2 .icon_cat{
     top: 36px;
     right: -7px;
 }
+
+
+.heart_bg{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+}
+.heart_bg1{
+    top: 9%;
+    left: 27%;
+}
+.heart_bg2{
+    top: 16%;
+    right: 20%;
+}
+.heart_bg3{
+    bottom: 30%;
+    left: 20%;
+}
+.heart_bg4{
+    bottom: 20%;
+    right: 20%;
+}
